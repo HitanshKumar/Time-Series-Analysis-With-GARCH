@@ -49,3 +49,6 @@ for i in range(test_size):
 ## Conclusion🎯
 
 -GARCH, although a good model that considers both the previous levels and volatility of a time series, cannot be effectively used to model financial time series in particular.
+
+<img src="![image](https://github.com/user-attachments/assets/b5895b6b-f161-402b-a4cd-602f89f125b5)
+" alt="Screenshot" style="width:400px;"/>
